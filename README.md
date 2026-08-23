@@ -2,6 +2,7 @@
 UI/UX design built in Figma, featuring wireframes, mockups, and prototypes from my ongoing journey into web design and front-end development. 🎨🌸
 
 <br><br>
+
 ## Madlibs
 A playful, goth-themed take on the classic Mad Libs game — designed with bold typography and a dark aesthetic to give a fun writing activity a moody, stylish twist.
 
@@ -16,6 +17,8 @@ A calming, minimalist meditation app concept designed to help users unwind — f
 <p align="center">
   <img width="220" alt="Meditation app interface" src="https://github.com/user-attachments/assets/bf47f34e-278c-42bb-b6e2-9054c9cb20c1" />
 </p>
+
+<br><br>
 
 - **Design:** [View on Figma](https://www.figma.com/design/VVgdTlNUpoosdLzd1vOWyV/meditation-app-cus-im-lovesick-lol?node-id=0-1&t=ucMs4vf3wvUxUZgz-1)
 - **Prototype (iPhone):** [View Prototype](https://www.figma.com/proto/VVgdTlNUpoosdLzd1vOWyV/meditation-app-cus-im-lovesick-lol?node-id=0-1&t=ucMs4vf3wvUxUZgz-1)
