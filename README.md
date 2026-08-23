@@ -13,10 +13,8 @@ A playful, goth-themed take on the classic Mad Libs game — designed with bold 
 A calming, minimalist meditation app concept designed to help users unwind — featuring a soft, soothing interface built with mindfulness and ease of use in mind.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fbfcada-a471-4c62-91ce-9ac8ac668367" width="220" alt="Meditation app interface" />
+  <img src="https://github.com/user-attachments/assets/441ffdda-1963-4195-a803-f6e03985d533" width="220" alt="Meditation app interface" />
 </p>
-
-MP4 🎥 [Watch the Prototype Interaction](https://github.com/user-attachments/assets/441ffdda-1963-4195-a803-f6e03985d533)
 
 - **Design:** [View on Figma](https://www.figma.com/design/VVgdTlNUpoosdLzd1vOWyV/meditation-app-cus-im-lovesick-lol?node-id=0-1&t=ucMs4vf3wvUxUZgz-1)
 - **Prototype (iPhone):** [View Prototype](https://www.figma.com/proto/VVgdTlNUpoosdLzd1vOWyV/meditation-app-cus-im-lovesick-lol?node-id=0-1&t=ucMs4vf3wvUxUZgz-1)
