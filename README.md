@@ -20,7 +20,5 @@ A calming, minimalist meditation app concept designed to help users unwind — f
   <img width="220" alt="Meditation app interface" src="https://github.com/user-attachments/assets/bf47f34e-278c-42bb-b6e2-9054c9cb20c1" />
 </p>
 
-<br><br>
-
 - **Design:** [View on Figma](https://www.figma.com/design/VVgdTlNUpoosdLzd1vOWyV/meditation-app-cus-im-lovesick-lol?node-id=0-1&t=ucMs4vf3wvUxUZgz-1)
 - **Prototype (iPhone):** [View Prototype](https://www.figma.com/proto/VVgdTlNUpoosdLzd1vOWyV/meditation-app-cus-im-lovesick-lol?node-id=0-1&t=ucMs4vf3wvUxUZgz-1)
